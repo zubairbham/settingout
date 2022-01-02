@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+.mb-3 {
+    display: inline-block;
+}
+.btn {
+    display: block;
+}
+td {
+    text-align: center; 
+}  
